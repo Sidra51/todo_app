@@ -27,6 +27,8 @@ if __name__=="__main__":
 FILEPATH="todos1.txt"
 ''' so here by assigning file with diff name can help in timesaving if we need to chnage the name just we need to chmge line 27
 insted of going in gettodos and write todos function'''
+
+FILEPATH="todos1.txt"
 def get_todos(FILEPATH):
     with open(filepath, 'r') as file_local:
         todos_local = file_local.readlines()
