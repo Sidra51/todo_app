@@ -1,0 +1,5 @@
+make burger
+make gravy
+buy grocery
+make rice
+make gravy

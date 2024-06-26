@@ -1,0 +1,13 @@
+ [{
+  "question_text":"what are Dolphins?",
+    "alternatives":["Amphibians","Fish","Mammals","Birds"],
+    "correct_answer":3
+},
+{
+   "question_text":"what are most of the surface surrounded with?",
+    "alternatives":["Land","water"],
+    "correct_answer":2
+   }
+ ]
+
+
